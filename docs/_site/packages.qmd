@@ -1,5 +1,0 @@
----
-title: "Packages"
----
-
-In this section we will install and load packages to use their functions.
